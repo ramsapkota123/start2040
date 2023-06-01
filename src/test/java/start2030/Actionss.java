@@ -5,6 +5,7 @@ public class Actionss {
 		System.out.println("hello");
 		System.out.println("helloall");
 		System.out.println("hi");
+		System.out.println("sala");
 	}
 
 }
